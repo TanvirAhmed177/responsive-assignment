@@ -57,6 +57,7 @@ li {
 }
 
 /* Main section */
+
 #jacket-img-1 {
   height: 283px;
   width: 283px;
@@ -110,6 +111,7 @@ li {
 }
 
 /* Support section */
+
 .service-img-1 {
   width: 78px;
   height: 82px;
@@ -119,32 +121,33 @@ li {
   height: 340px;
 }
 
-/* footer section */
-#footer {
-  background-color: rgb(250, 250, 250);
+/* extra section */
+
+#extra {
+  background-color: #f1f1f1;
 }
-.footer-logo {
+.extra-logo {
   height: 30px;
   width: 191px;
 }
-#footer ul,
+#extra ul,
 li {
   list-style: none;
   margin: 0px;
   padding: 0px;
 }
-#footer li a {
+#extra li a {
   text-decoration: none;
   color: #fabe4c;
 }
-#footer input {
+#extra input {
   width: 100%;
   font-size: 15px;
   border: 0px;
   border-bottom: 1px solid #fabe4c;
   background-color: transparent;
 }
-#footer button {
+#extra button {
   font-size: 12px;
   background-color: #98b134;
   border: 1px solid gray;
@@ -152,10 +155,16 @@ li {
   margin-top: 10px;
   width: 40px;
 }
-.first-footer i {
+.first-extra i {
   font-size: 30px;
   margin: 10px 8px 0px 0px;
 }
-.all-footer {
+.all-extra {
   padding-bottom: 50px;
+}
+
+/* footer section */
+footer {
+  background-color: #f1f1f1;
+  margin-bottom: -15px;
 }
