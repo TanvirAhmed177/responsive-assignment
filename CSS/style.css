@@ -1,0 +1,161 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+h1,
+h4,
+h3,
+h2.h5 {
+  font-family: "Bebas Neue", cursive;
+  color: #363958;
+}
+p,
+li {
+  font-family: "Roboto", sans-serif;
+  color: #3e3e3e;
+}
+
+/* Header section */
+
+.nav-container {
+  background-color: #fffbf0;
+  margin-bottom: 100px;
+}
+.nav-logo img {
+  height: 40px;
+  width: 291px;
+}
+#nav-menu {
+  color: black;
+}
+#nav-menu:hover {
+  color: #98b134;
+}
+.be-penguin h1 {
+  font-size: 75px;
+  margin-top: -25px;
+}
+.be-penguin .img-cart {
+  width: 20px;
+  height: 20px;
+}
+.be-penguin .img-girl {
+  width: 450px;
+  height: 450px;
+}
+.be-penguin Button {
+  width: 160px;
+  height: 55px;
+  border-radius: 10px;
+  background-color: #98b134;
+  color: white;
+}
+
+.be-penguin span {
+  color: #fabe4c;
+}
+
+/* Main section */
+#jacket-img-1 {
+  height: 283px;
+  width: 283px;
+}
+#jacket-img-2 {
+  height: 273px;
+  width: 203px;
+}
+#jacket-img-3 {
+  height: 257px;
+  width: 210px;
+}
+.jacket-card {
+  height: 320px;
+  width: 300px;
+  background-color: #f1f1f1;
+  border-radius: 15px;
+}
+.jacket-card-footer {
+  border: 0px;
+  background-color: white;
+  width: 100%;
+}
+.jacket-card-footer h2 {
+  color: #fabe4c;
+  font-weight: bold;
+  font-size: 35px;
+}
+.jacket-card-footer Button {
+  width: 160px;
+  height: 55px;
+  border-radius: 10px;
+  background-color: #98b134;
+  color: white;
+}
+.jacket-card-footer .img-cart {
+  width: 20px;
+  height: 20px;
+}
+#jacket-img-4 {
+  height: 260px;
+  width: 200px;
+}
+#jacket-img-5 {
+  height: 237px;
+  width: 230px;
+}
+#jacket-img-6 {
+  height: 264px;
+  width: 210px;
+}
+
+/* Support section */
+.service-img-1 {
+  width: 78px;
+  height: 82px;
+}
+.service-img-2 {
+  width: 510px;
+  height: 340px;
+}
+
+/* footer section */
+#footer {
+  background-color: rgb(250, 250, 250);
+}
+.footer-logo {
+  height: 30px;
+  width: 191px;
+}
+#footer ul,
+li {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+}
+#footer li a {
+  text-decoration: none;
+  color: #fabe4c;
+}
+#footer input {
+  width: 100%;
+  font-size: 15px;
+  border: 0px;
+  border-bottom: 1px solid #fabe4c;
+  background-color: transparent;
+}
+#footer button {
+  font-size: 12px;
+  background-color: #98b134;
+  border: 1px solid gray;
+  color: white;
+  margin-top: 10px;
+  width: 40px;
+}
+.first-footer i {
+  font-size: 30px;
+  margin: 10px 8px 0px 0px;
+}
+.all-footer {
+  padding-bottom: 50px;
+}
